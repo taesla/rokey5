@@ -1,0 +1,1 @@
+print("VSCode 새 파일")
